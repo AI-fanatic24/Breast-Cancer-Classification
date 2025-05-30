@@ -17,3 +17,6 @@ and test set is used to evaluate the model’s
 performance on unseen data.
 
 Both the models are trained on a variety og alogrithms like Logistic Regression, Random Forest, XGBoost and Support Vector Machine(SVM) to determine which algorithm fits the best.
+
+Canva link for the project presentation:
+https://www.canva.com/design/DAGnmdobntQ/wDRUAAzCM-GrhBov1qKyIQ/view?utm_content=DAGnmdobntQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f4c9c6c42
