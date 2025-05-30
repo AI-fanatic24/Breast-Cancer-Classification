@@ -15,3 +15,5 @@ in the data, validation set helps fine tune model
 parameters and prevent overfitting or underfitting
 and test set is used to evaluate the model’s
 performance on unseen data.
+
+Both the models are trained on a variety og alogrithms like Logistic Regression, Random Forest, XGBoost and Support Vector Machine(SVM) to determine which algorithm fits the best.
