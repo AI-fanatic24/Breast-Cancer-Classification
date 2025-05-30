@@ -7,3 +7,7 @@ Steps Followed:
 •	Train the model on the train set.
 •	Fine tune the model using validation set.
 •	Test the model on the test set.
+
+Observations:
+Performance of the diagnostic model is more efficient as compared to the prognostic model due to the lack of sufficient data in the prognostic model.
+
