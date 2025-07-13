@@ -9,14 +9,9 @@ size, texture etc. Prognostic model aims to predict whether
 the disease is recurring or non-recurring.
 
 To build an effective model the data is typically
-divided into train set, validation set and test set. Train
-sets is used to teach the model to recognize patterns
-in the data, validation set helps fine tune model
-parameters and prevent overfitting or underfitting
-and test set is used to evaluate the model’s
+divided into train set and test set. Train
+set is used to teach the model to recognize patterns
+in the data and test set is used to evaluate the model’s
 performance on unseen data.
 
-Both the models are trained on a variety og alogrithms like Logistic Regression, Random Forest, XGBoost and Support Vector Machine(SVM) to determine which algorithm fits the best.
-
-Canva link for the project presentation:
-https://www.canva.com/design/DAGnmdobntQ/wDRUAAzCM-GrhBov1qKyIQ/view?utm_content=DAGnmdobntQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f4c9c6c42
+Both the models are trained on a variety of alogrithms like Logistic Regression, Random Forest, XGBoost and Support Vector Machine (SVM) to determine which algorithm gives the best results.
