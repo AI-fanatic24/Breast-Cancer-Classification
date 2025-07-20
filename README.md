@@ -14,4 +14,4 @@ set is used to teach the model to recognize patterns
 in the data and test set is used to evaluate the model’s
 performance on unseen data.
 
-Both the models are trained on a variety of alogrithms like Logistic Regression, Random Forest, XGBoost and Support Vector Machine (SVM) to determine which algorithm gives the best results.
+Both the models are trained on a variety of alogrithms like Logistic Regression, Random Forest, XGBoost and Support Vector Machine (SVM) to determine which algorithm gives the optimal results.
